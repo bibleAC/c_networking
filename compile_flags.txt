@@ -1,0 +1,7 @@
+-std=c2y
+-fdefer-ts
+-Wall
+-Wextra
+-Ilib
+-Wno-gnu-designator
+-Wshadow
